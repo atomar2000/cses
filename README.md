@@ -8,7 +8,7 @@ Track progress for solved CSES problems.
 - [x] [Weird Algorithm](https://cses.fi/problemset/task/1068)
 - [x] [Missing Number](https://cses.fi/problemset/task/1083)
 - [x] [Repetitions](https://cses.fi/problemset/task/1069)
-- [ ] [Increasing Array](https://cses.fi/problemset/task/1094)
+- [x] [Increasing Array](https://cses.fi/problemset/task/1094)
 - [ ] [Permutations](https://cses.fi/problemset/task/1070)
 - [ ] [Number Spiral](https://cses.fi/problemset/task/1071)
 - [ ] [Two Knights](https://cses.fi/problemset/task/1072)
