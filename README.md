@@ -32,7 +32,7 @@ Track progress for solved CSES problems.
 
 ## Sorting and Searching
 
-- [ ] [Distinct Numbers](https://cses.fi/problemset/task/1621)
+- [x] [Distinct Numbers](https://cses.fi/problemset/task/1621)
 - [ ] [Apartments](https://cses.fi/problemset/task/1084)
 - [ ] [Ferris Wheel](https://cses.fi/problemset/task/1090)
 - [ ] [Concert Tickets](https://cses.fi/problemset/task/1091)
